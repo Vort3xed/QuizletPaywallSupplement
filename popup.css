@@ -1,0 +1,44 @@
+/* popup.css */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 80vh;
+    background-color: #f0f0f0;
+  }
+  
+  #popup-container {
+    background-color: #fff;
+    /* padding: 120px; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    display: flex; /* Set display to flex */
+    flex-direction: column; /* Arrange items vertically */
+    /* align-items: center; Center items horizontally */
+  }
+  
+  h1 {
+    font-size: 28px;
+    /* font-family: Arial, sans-serif; */
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+  }
+  
+  button {
+    display: block;
+    margin: 6px auto;
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
