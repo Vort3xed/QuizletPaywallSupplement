@@ -41,4 +41,11 @@ body {
   button:hover {
     background-color: #0056b3;
   }
+
+  p {
+    font-size: 10px;
+    /* font-family: Arial, sans-serif; */
+    font-family: "Roboto", sans-serif;
+    margin: 3px;
+  }
   
