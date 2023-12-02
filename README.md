@@ -12,6 +12,9 @@ Remove the email verification request message when using a Quizlet paywall bypas
 - Click "Remove Email Verification Request"
 - Note that your scroll wheel (or scroll bar) will not work. You must use the built in "scroll down" and "scroll up" buttons in the extension popup
 
+## Additional Tools:
+- Click the "remove blur" button if you want to use quizlet without an account (quizlet forces you to make an account to see flash cards)
+
 Built to work on:
 - Chrome
 - Textbook Solutions Page 
